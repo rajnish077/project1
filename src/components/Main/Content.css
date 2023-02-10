@@ -1,0 +1,28 @@
+.content{
+    border: 1px solid black;
+    margin: .2rem 0rem;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 4px black;
+    height: 73.2vh;
+}
+.content-bar{
+    background-color: rgb(55, 55, 235);
+    color: white;
+    padding: .5rem;
+    margin: .2rem 0rem;
+    display: flex;
+    justify-content: space-between;
+}
+.content-questions{
+    display: flex;
+    justify-content: space-around;
+}
+.left-window{
+    width: 50%;
+    border-right: 1px solid black;
+}
+.right-window{
+    width: 50%;
+
+
+}

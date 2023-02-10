@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: blue;
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    padding: 1rem 0rem;
+}
